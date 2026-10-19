@@ -1,4 +1,4 @@
-# Q3. Add Two Numbers
+# Q2. Add Two Numbers
 
 # Take two integers as input and print their sum.
 

@@ -1,4 +1,4 @@
-# Q2. Introduce Yourself
+# Q1. Introduce Yourself
 
 # Take the following information from the user:
 
