@@ -1,7 +1,6 @@
-# Write a program to input 2 numbers and print their sum
+# Write a program to input side of a square and print its area.
 
-num1 = int(input("Enter 1st no: "))
-num2 = int(input("Enter 2nd no: "))
+side = float(input("Enter the side of square: "))
 
-sum = num1 + num2
-print(f"Sum of {num1} and {num2} is {sum}")
+area = side * side
+print("The area of square is ",area)
