@@ -7,7 +7,7 @@
 # College name
 
 name = input("Enter your name: ")
-age = (input("Enter your age: "))
+age = input("Enter your age: ")
 clg = input("Enter college name: ")
 
 print(f"My name is {name}.")
