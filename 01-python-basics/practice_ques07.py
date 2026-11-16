@@ -4,7 +4,4 @@
 a = int(input("Enter 1st no: "))
 b = int(input("Enter 2nd no: "))
 
-if a >= b : 
-    print("True")
-else :
-    print("False")
+print(a >= b)
